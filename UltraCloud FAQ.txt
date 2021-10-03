@@ -1,0 +1,44 @@
+ 
+UltraCloud – FAQ
+
+Q: Who are you?
+A: We are a company / group of developers who are trying to provide people with money by testing their knowledge and experience.
+
+Q: Are you legit?
+A: Of course!
+
+Q: What are “Storms”?
+A: Storms are the most important part of our application. By entering a storm you are competing against other people to win the prize pool. Storms last 30 days and after it finishes, a winner is announced and gets paid. Right after that a new storm comes and the whole operation starts again.
+
+Q: What games are in your storm?
+A: It can be trivia, basic knowledge and so on. As time goes on, challenges will become more and more interesting. Each storm has different games so be prepared for anything!
+
+Q: How do I enter a storm?
+A: You have to pay a small fee of 15$. This will give you a ticket code with which you can register. When you register you will immediately be able to play the storm (if the storm is online of course)
+
+Q: How much money will be in the prize pool?
+A: It depends on how many contestants are in the storm. Most often +1 user = +10$ in the prize pool
+
+Q: Will a storm ever be canceled?
+A: No, even if there are only 2 contestants the storm will not be canceled. And the duration for the next storm will not be shorter
+
+Q: How can I pay for the entry ticket?
+A: Bitcoin (BTC), Ethereum (ETH) and or Litecoin (LTC)
+
+Q: If I win how will you pay me?
+A: Bitcoin (BTC), Ethereum (ETH) and or Litecoin (LTC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
